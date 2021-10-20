@@ -1,0 +1,16 @@
+{
+  "comprovante": {
+      "hashComprovante" : "KIUJ-Jijnh-98j",
+      "NumeroDT": 1230,
+      "DataExclusao" : "2021-01-01T12:00:00",
+      "NumeroCE" : "1234567890",
+      "DataEmissao" : "2021-01-01T12:00:00",
+      "DataProgramada" : "2021-01-01T12:00:00",
+      "DataEntrega" : "2021-01-01T12:00:00",
+      "DataChegadaCliente" : "2021-01-01T12:00:00",
+      "DataSaidaCliente" : "2021-01-01T12:00:00",
+      "NumerosNFs" : "3782173812738912739812,8312831298391283912890312,8391283021839012",
+      "Observacoes": "",
+      "Imagem" : ""
+  }
+}
